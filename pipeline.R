@@ -1,5 +1,3 @@
-
-
 @transform_pandas(
     Output(rid="ri.foundry.main.dataset.601f62a4-dcba-4ebd-9cc7-dfad85bd8f0c"),
     lsd_conditions_icd=Input(rid="ri.foundry.main.dataset.115d8d02-843c-4c0d-b03e-b1d2e24aad95")
