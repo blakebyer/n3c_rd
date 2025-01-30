@@ -1,5 +1,3 @@
-
-
 @transform_pandas(
     Output(rid="ri.foundry.main.dataset.9d2ba62d-1bc5-47eb-9944-bdaf29338b36"),
     condition_occurrence=Input(rid="ri.foundry.main.dataset.526c0452-7c18-46b6-8a5d-59be0b79a10b"),
